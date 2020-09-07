@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "cftexecsql", "cftexecsql\cftexecsql.dtproj", "{9C9A3B53-0D9C-4956-A218-88716F8BF9BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C9A3B53-0D9C-4956-A218-88716F8BF9BA}.Development|Default.ActiveCfg = Development
+		{9C9A3B53-0D9C-4956-A218-88716F8BF9BA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6319A2-D955-4B90-AE6E-DFF16DE3B2E8}
+	EndGlobalSection
+EndGlobal

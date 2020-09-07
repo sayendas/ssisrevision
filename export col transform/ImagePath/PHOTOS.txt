@@ -1,0 +1,5 @@
+D:\ssisrevisiontasks\export col transform\ImagePath\188px-Sonic_Mania_chara_Knuckles_2.png
+D:\ssisrevisiontasks\export col transform\ImagePath\225px-Sonic_Mania_chara_Mighty_2.png
+D:\ssisrevisiontasks\export col transform\ImagePath\225px-Sonic_Mania_chara_Ray_2.png
+D:\ssisrevisiontasks\export col transform\ImagePath\225px-Sonic_Mania_chara_Sonic_2.png
+D:\ssisrevisiontasks\export col transform\ImagePath\270px-Sonic_Mania_chara_Tails_2.png

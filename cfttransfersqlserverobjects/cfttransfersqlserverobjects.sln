@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "cfttransfersqlserverobjects", "cfttransfersqlserverobjects\cfttransfersqlserverobjects.dtproj", "{53FB4CE1-78C2-4281-A277-733357194F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FB4CE1-78C2-4281-A277-733357194F9B}.Development|Default.ActiveCfg = Development
+		{53FB4CE1-78C2-4281-A277-733357194F9B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED6B449-1AA0-4FE6-9919-8D2912A172D9}
+	EndGlobalSection
+EndGlobal

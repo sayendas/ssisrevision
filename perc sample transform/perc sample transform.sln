@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "perc sample transform", "perc sample transform\perc sample transform.dtproj", "{818B889D-D7DC-4A1B-B11E-1CAF946D1B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818B889D-D7DC-4A1B-B11E-1CAF946D1B12}.Development|Default.ActiveCfg = Development
+		{818B889D-D7DC-4A1B-B11E-1CAF946D1B12}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1D9F39-5345-40F2-89C4-5830303CE66F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "cftexecpackage", "cftexecpackage\cftexecpackage.dtproj", "{76096116-85F5-4BA3-A16B-76B6CB4E1970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76096116-85F5-4BA3-A16B-76B6CB4E1970}.Development|Default.ActiveCfg = Development
+		{76096116-85F5-4BA3-A16B-76B6CB4E1970}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6004E09C-FB74-440B-849B-CEDC453FAE2F}
+	EndGlobalSection
+EndGlobal

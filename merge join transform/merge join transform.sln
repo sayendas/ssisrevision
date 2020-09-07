@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "merge join transform", "merge join transform\merge join transform.dtproj", "{8AB72B12-AABA-4A70-9B97-F349FBA343EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB72B12-AABA-4A70-9B97-F349FBA343EC}.Development|Default.ActiveCfg = Development
+		{8AB72B12-AABA-4A70-9B97-F349FBA343EC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFF6BCD-0F50-46A6-8FA1-7B853AA18212}
+	EndGlobalSection
+EndGlobal

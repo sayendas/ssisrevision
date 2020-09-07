@@ -1,0 +1,5 @@
+id,name,group
+1,Data Analysis,DAG
+2,Mobile App Dev,MAD
+3,Php,PHP
+4,Dotnet,DOT

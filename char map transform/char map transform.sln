@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "char map transform", "char map transform\char map transform.dtproj", "{64509325-44BC-48D4-BF43-BBD672D986E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64509325-44BC-48D4-BF43-BBD672D986E9}.Development|Default.ActiveCfg = Development
+		{64509325-44BC-48D4-BF43-BBD672D986E9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D8B9D0-9961-41A7-9120-5C716D97C41C}
+	EndGlobalSection
+EndGlobal

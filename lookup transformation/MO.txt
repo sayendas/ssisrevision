@@ -1,0 +1,11 @@
+id,CountryName,cid
+1,United States,6
+2,United States,6
+3,United States,6
+4,United States,6
+5,United States,6
+6,Canada,2
+7,France,3
+8,Germany,4
+9,Australia,1
+10,United Kingdom,5

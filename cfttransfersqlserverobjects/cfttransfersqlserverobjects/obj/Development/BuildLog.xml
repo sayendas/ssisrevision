@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>cfttransfersqlserverobjects</Name>
+    <LastWriteTime>2020-09-07T14:18:56.0380949Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>cfttransfersqlserverobjectswithdata.dtsx</Name>
+      <LastWriteTime>2020-09-07T13:33:04.0631492Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cfttransfersqlserverobjectswithoutdata.dtsx</Name>
+      <LastWriteTime>2020-09-07T13:43:12.5418637Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cfttransfersqlserverobjectsstoredprocedures.dtsx</Name>
+      <LastWriteTime>2020-09-07T14:02:26.5247101Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cfttransfersqlserverobjectsuserdeffunctions.dtsx</Name>
+      <LastWriteTime>2020-09-07T14:10:16.7337841Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>cfttransfersqlserverobjectsviews.dtsx</Name>
+      <LastWriteTime>2020-09-07T14:24:19.1210388Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "import col transform", "import col transform\import col transform.dtproj", "{04A8F2F6-3C88-4728-86DB-88F5CFB622D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04A8F2F6-3C88-4728-86DB-88F5CFB622D3}.Development|Default.ActiveCfg = Development
+		{04A8F2F6-3C88-4728-86DB-88F5CFB622D3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C7DC742-FC12-44F5-8A20-887804CF7F45}
+	EndGlobalSection
+EndGlobal

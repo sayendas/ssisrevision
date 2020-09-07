@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "derived col transform", "derived col transform\derived col transform.dtproj", "{372E57D9-6B1E-4346-85E0-A90381F8D238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372E57D9-6B1E-4346-85E0-A90381F8D238}.Development|Default.ActiveCfg = Development
+		{372E57D9-6B1E-4346-85E0-A90381F8D238}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9F2862-5060-4C93-AF95-996B61877203}
+	EndGlobalSection
+EndGlobal

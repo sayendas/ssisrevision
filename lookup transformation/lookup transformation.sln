@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "lookup transformation", "lookup transformation\lookup transformation.dtproj", "{AAAF3414-2F4E-4C4C-A6A9-22D0BBCA8E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAF3414-2F4E-4C4C-A6A9-22D0BBCA8E55}.Development|Default.ActiveCfg = Development
+		{AAAF3414-2F4E-4C4C-A6A9-22D0BBCA8E55}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A872C85C-517C-4EF1-A45A-9F96E938330E}
+	EndGlobalSection
+EndGlobal
